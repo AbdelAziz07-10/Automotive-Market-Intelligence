@@ -44,6 +44,8 @@ This project provides a data-driven framework to evaluate vehicle market values,
 
 ### Streamlit Web Application
 
+![ScreenShot of Streamlit](Streamlit_ScreenShot.jpg)
+
 * Interactive user interface allowing parameter inputs (Make, Model, Year, Condition, Mileage, MMR).
 * Instant price estimation powered by the trained machine learning backend.
 
