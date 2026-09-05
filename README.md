@@ -34,6 +34,8 @@ This project provides a data-driven framework to evaluate vehicle market values,
 
 ### Power BI Dashboard Architecture & Analytics
 
+![ScreenShot of Dashboard](Dashboard.png)
+
 * **Executive KPI Panel:** Displays top-level metrics including Total Revenue, Average Vehicle Selling Price, Total Units Sold, and Overall Market Deviation relative to MMR.
 * **Market Inefficiency & Arbitrage Matrix:** Visualizes the "Market Signal" distribution, allowing users to slice data by vehicle make, body type, and state to instantly isolate undervalued inventory with high profit margins.
 * **Pricing Drivers & Correlation Analysis:** Features cross-filtering visuals that analyze the non-linear relationship between Odometer (Mileage), Condition Scores, and Sale Price across different model years.
